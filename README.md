@@ -101,6 +101,7 @@ I don't know about you, but code like `True#Or[False]` is quite ugly.
 We can do a lot better with types.
 Types which take two arguments can be written as an infix operator.
 Define types `\/`, `/\`, and `->` to alias `Or`, `And`, and `Imp` respectively.
+Place these types in a companion object so they can be imported into your test code.
 
 ## Nat Exercises
 
