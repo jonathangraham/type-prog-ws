@@ -83,7 +83,7 @@ Update `Bool` to make the compiler happy!
 
 This time you need to implement the `And` type.
 
-Were you able to implement it by only updating the `Bool` trait?
+Were you able to implement it by only updating the `Bool` trait per the comments?
 
 ### bool-3
 
