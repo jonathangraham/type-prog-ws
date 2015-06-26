@@ -13,5 +13,7 @@ object Bool2Specs {
   illTyped("implicitly[False#And[True] =:= True]")
   illTyped("implicitly[False#And[False] =:= True]")
 
-  // TODO: Di you implement And without touching True or False? It can be done :)
+  // TODO: Did you implement And without touching True or False? It can be done :)
+  // Use `this.type` to reference the type of the trait that is in scope.
+  // Note that A And B => (A' Or B')' per De Morgan's Law.
 }
