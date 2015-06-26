@@ -24,8 +24,9 @@ TBD.
 1. Fork this repo.
 2. `git clone https://github.com/[USERNAME]/type-prog-ws.git`
 3. `sbt`
-4. `> update`
-5. `> test`
+4. Wait on Internet to download :)
+5. `> update`
+6. `> test`
 
 You should get a passing test and a failing test with the following output.
 
