@@ -14,4 +14,5 @@ object Bool3Specs {
   illTyped("implicitly[False#Imp[False] =:= False]")
 
   // TODO: Imp can also be implemented solely in Bool.
+  // Note that A Imp B = A' Or B
 }
