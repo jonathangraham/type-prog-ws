@@ -193,6 +193,7 @@ Once you are done, you should be able to compile the test code.
 `git merge origin/tlist-2`
 
 Since we have a list, we should be able to do operations like `reduce`.
+Rather than passing a function, hard-code addition as the function.
 You may make the simplifying assumption that `TNil#reduce =:= Nat0`.
 
 ### tlist-3
