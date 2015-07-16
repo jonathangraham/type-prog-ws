@@ -1,5 +1,6 @@
 # type-prog-ws
 Type Programming in Scala 101 Workshop
+https://github.com/joescii/type-prog-ws
 
 ## Objective
 
